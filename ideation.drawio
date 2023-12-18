@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T13:38:42.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="20.5.1" etag="ph0YPx_965VCvnSox0GS" type="github"><diagram id="MUo9VpXzXGgttalcAO6F">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-12-18T14:02:47.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="9ON-uA4moyPtwHj1jnHR" version="20.5.1" type="github">
+  <diagram id="MUo9VpXzXGgttalcAO6F" name="Page-1">
+    <mxGraphModel dx="1051" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-1" value="sufficient space" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8FCBFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-2" value="welcoming atmosphere" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8FCBFF;" vertex="1" parent="1">
+          <mxGeometry x="225" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-3" value="no label / no gender" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8FCBFF;" vertex="1" parent="1">
+          <mxGeometry x="190" y="224" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-4" value="percieved cleanliness" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8FCBFF;" vertex="1" parent="1">
+          <mxGeometry x="440" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-5" value="accessability" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8FCBFF;" vertex="1" parent="1">
+          <mxGeometry x="670" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-6" value="supporting amenities" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8FCBFF;" vertex="1" parent="1">
+          <mxGeometry x="527" y="274" width="108" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-7" value="privacy and anonymity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8FCBFF;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-8" value="comfort &amp;amp; safety" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8FCBFF;" vertex="1" parent="1">
+          <mxGeometry x="710" y="134" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-9" value="no labels yes space" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-10" value="scent pods to cover odours" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-11" value="door with locks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-12" value="sink in the stall &lt;br&gt;(and mirror)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="580" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-13" value="sound proof walls (long)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-14" value="trash bins" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="214" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-15" value="smell things for urinals" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="184" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-16" value="urinals need something to aim for" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="740" y="214" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-17" value="menstrual products" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="580" y="234" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-18" value="door should look like door" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="740" y="314" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-20" value="easy to open doors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="730" y="404" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-21" value="easy to open doors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="620" y="414" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-23" value="vending machine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="314" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-24" value="condoms / tooth brush &amp;amp; paste" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="354" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-25" value="toilet paper" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="420" y="259" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-28" value="soap / disinsect" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="395" y="209" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-29" value="something to disinfect seats" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="505" y="174" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-30" value="use toilet drawing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="184" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-31" value="no handle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="464" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-32" value="foot lock" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="510" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-33" value="self sanitizing handles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="550" y="550" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-34" value="self cleaning floors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="445" y="560" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-35" value="enough space that you don&#39;t have to touch anything" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="525" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-36" value="clean toilet brush" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-37" value="(fake) plants" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="285" y="309" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-38" value="bright colors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-39" value="(radio) music" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="404" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-40" value="warm lights" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="314" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-41" value="digital nature screen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-42" value="sideboard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="464" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-43" value="hangers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="475" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-44" value="cupboard without doors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="175" y="550" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-45" value="enough space to change" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="590" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-46" value="tall / short toilets (height adjustable)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqQ280BiYx4Qb7V6a4_P-48" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#009900;strokeColor=#006600;strokeWidth=5;opacity=50;" edge="1" parent="1" source="yqQ280BiYx4Qb7V6a4_P-9" target="yqQ280BiYx4Qb7V6a4_P-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="170" as="sourcePoint" />
+            <mxPoint x="240" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="-30" />
+              <mxPoint x="390" y="330" />
+              <mxPoint x="630" y="270" />
+              <mxPoint x="860" y="150" />
+              <mxPoint x="380" y="120" />
+              <mxPoint x="230" y="240" />
+              <mxPoint x="290" y="410" />
+              <mxPoint x="780" y="390" />
+              <mxPoint x="730" y="330" />
+              <mxPoint x="520" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
